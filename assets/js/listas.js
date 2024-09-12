@@ -17,6 +17,24 @@ const juegos = [
         downloadLink: "https://ouo.io/3jgvcs",
         downloadLink2: "https://ouo.io/5fAgSwt" // Segundo enlace de descarga
 
+    },
+    {
+        id: "Assassin's Creed III",
+        imgSrc: "assets/img/horadeaventurainvestigations.jpg",
+        altText: "Assassin's Creed III",
+        title: "Assassin's Creed III (USA) (DLC) (v80).wua",
+        downloadLink: "jjj",
+        downloadLink2: "jjj" // Segundo enlace de descarga
+
+    },
+    {
+        id: "Assassin's Creed IV Black Flag",
+        imgSrc: "assets/img/horadeaventurainvestigations.jpg",
+        altText: "Assassin's Creed IV Black Flag",
+        title: "Assassin's Creed IV Black Flag (USA) (v32).wua",
+        downloadLink: "jjj",
+        downloadLink2: "jjj" // Segundo enlace de descarga
+
 
     },
     {
@@ -44,6 +62,15 @@ const juegos = [
         title: "Call of Duty Black Ops II (EU).wua",
         downloadLink: "https://www.ejemplo.com",
         downloadLink2: "https://ouo.io/NIsdKs" // Segundo enlace de descarga
+
+    },
+    {
+        id: "Call of Duty Ghosts",
+        imgSrc: "assets/img/horadeaventurainvestigations.jpg",
+        altText: "Call of Duty Ghosts",
+        title: "Call of Duty Ghosts (USA) (DLC) (v112).wua",
+        downloadLink: "jjj",
+        downloadLink2: "jjj" // Segundo enlace de descarga
 
     },
     {
@@ -146,6 +173,15 @@ const juegos = [
 
     },
     {
+        id: "Mario y Sonic at the Rio 2016 Olympic Games",
+        imgSrc: "assets/img/marioysonicsochi2014.jpg",
+        altText: "Mario y Sonic at the Rio 2016 Olympic Games",
+        title: "Mario & Sonic at the Rio 2016 Olympic Games (USA) (v16).wua",
+        downloadLink: "https://www.ejemplo.com",
+        downloadLink2: "OTRO ENLACE AQUI" // Segundo enlace de descarga
+
+    },
+    {
         id: "Mario y sonic sochi 2014",
         imgSrc: "assets/img/marioysonicsochi2014.jpg",
         altText: "Mario y sonic sochi 2014",
@@ -179,6 +215,24 @@ const juegos = [
         title: "Mario Tennis - Ultra Smash (USA) (En,Fr,Es).wux",
         downloadLink: "https://ouo.io/AxswF7",
         downloadLink2: "https://ouo.io/w9KfdcZ" // Segundo enlace de descarga
+
+    },
+    {
+        id: "Mario vs. Donkey Kong Tipping Stars",
+        imgSrc: "assets/img/mariotennisultrasmash.jpg",
+        altText: "Mario vs. Donkey Kong Tipping Stars",
+        title: "Mario vs. Donkey Kong Tipping Stars (USA).wua",
+        downloadLink: "jjj",
+        downloadLink2: "jjj" // Segundo enlace de descarga
+
+    },
+    {
+        id: "MONSTER HUNTER 3 ULTIMATE",
+        imgSrc: "assets/img/mariotennisultrasmash.jpg",
+        altText: "MONSTER HUNTER 3 ULTIMATE",
+        title: "MONSTER HUNTER 3 ULTIMATE (USA) (v32).wua",
+        downloadLink: "jjj",
+        downloadLink2: "jjj" // Segundo enlace de descarga
 
     },
     {
@@ -232,6 +286,15 @@ const juegos = [
         altText: "Penguins of Madagascar",
         title: "Penguins of Madagascar (USA).wua",
         downloadLink: "https://ouo.io/H0UZ9M",
+        downloadLink2: "OTRO ENLACE AQUI" // Segundo enlace de descarga
+
+    },
+    {
+        id: "Phineas and Ferb Quest for Cool Stuff",
+        imgSrc: "assets/img/pikmin3.jpg",
+        altText: "Phineas and Ferb Quest for Cool Stuff",
+        title: "Phineas and Ferb - Quest for Cool Stuff (USA).wua",
+        downloadLink: "jjj",
         downloadLink2: "OTRO ENLACE AQUI" // Segundo enlace de descarga
 
     },
@@ -290,6 +353,15 @@ const juegos = [
 
     },
     {
+        id: "Star Fox Zero",
+        imgSrc: "assets/img/pikmin3.jpg",
+        altText: "Star Fox Zero",
+        title: "Star Fox Zero (USA) (v16).wua",
+        downloadLink: "jjj",
+        downloadLink2: "OTRO ENLACE AQUI" // Segundo enlace de descarga
+
+    },
+    {
         id: "SUPER MARIO 3D WORLD",
         imgSrc: "assets/img/sm3dworld.jpg",
         altText: "SUPER MARIO 3D WORLD",
@@ -308,12 +380,30 @@ const juegos = [
 
     },
     {
+        id: "Super Smash Bros. for Wii U",
+        imgSrc: "assets/img/supermariomaker.jpg",
+        altText: "Super Smash Bros. for Wii U",
+        title: "Super Smash Bros. for Wii U (USA) (DLC) (v304).wua",
+        downloadLink: "jjjj",
+        downloadLink2: "OTRO ENLACE AQUI" // Segundo enlace de descarga
+
+    },
+    {
         id: "TEKKEN TAG 2 Wii U EDITION",
         imgSrc: "assets/img/tekkentag2.jpg",
         altText: "TEKKEN TAG 2 Wii U EDITION",
         title: "TEKKEN TAG 2 Wii U EDITION (US) (v32).wua",
         downloadLink: "jjj",
         downloadLink2: "https://ouo.io/t25lhr" // Segundo enlace de descarga
+
+    },
+    {
+        id: "The Amazing Spider-Man 2",
+        imgSrc: "assets/img/pikmin3.jpg",
+        altText: "The Amazing Spider-Man 2",
+        title: "The Amazing Spider-Man 2 (USA).wua",
+        downloadLink: "jjj",
+        downloadLink2: "OTRO ENLACE AQUI" // Segundo enlace de descarga
 
     },
     {
@@ -353,6 +443,15 @@ const juegos = [
 
     },
     {
+        id: "The Legend of Zelda Twilight Princess HD",
+        imgSrc: "assets/img/mariotennisultrasmash.jpg",
+        altText: "The Legend of Zelda Twilight Princess HD",
+        title: "The Legend of Zelda - Twilight Princess HD (USA) (v81).wua",
+        downloadLink: "jjj",
+        downloadLink2: "jjj" // Segundo enlace de descarga
+
+    },
+    {
         id: "Turbo Super Stunt Squad",
         imgSrc: "assets/img/turbo.jpg",
         altText: "Turbo Super Stunt Squad",
@@ -362,12 +461,30 @@ const juegos = [
 
     },
     {
+        id: "Wipeout 3",
+        imgSrc: "assets/img/pikmin3.jpg",
+        altText: "Wipeout 3",
+        title: "Wipeout 3 (USA).wua",
+        downloadLink: "jjj",
+        downloadLink2: "OTRO ENLACE AQUI" // Segundo enlace de descarga
+
+    },
+    {
         id: "Yoshi's Woolly World",
         imgSrc: "assets/img/yoshi.jpg",
         altText: "Yoshi's Woolly World",
         title: "Yoshi's Woolly World (USA) (v32).wua",
         downloadLink: "h",
         downloadLink2: "https://ouo.io/N5z4so" // Segundo enlace de descarga
+
+    },
+    {
+        id: "ZombiU",
+        imgSrc: "assets/img/mariotennisultrasmash.jpg",
+        altText: "ZombiU",
+        title: "ZombiU (USA) (v32).wua",
+        downloadLink: "jjj",
+        downloadLink2: "jjj" // Segundo enlace de descarga
     }
 ];
 
