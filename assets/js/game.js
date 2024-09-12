@@ -26,7 +26,7 @@ function filterGames() {
 }
 
 // Función para añadir los juegos al DOM
-function addGameToGallery({id, imgSrc, altText, title, downloadLink, downloadLink2}) {
+function addGameToGallery({id, imgSrc, altText, title, downloadLink2}) {
     const gallery = document.getElementById('gallery');
     const gameDiv = document.createElement('div');
     gameDiv.classList.add('game');
@@ -35,7 +35,6 @@ function addGameToGallery({id, imgSrc, altText, title, downloadLink, downloadLin
     gameDiv.innerHTML = `
         <img src="${imgSrc}" alt="${altText}">
         <p>${title}</p>
-        <button onclick="window.location.href='${downloadLink}'">Drive</button>
         <button onclick="window.location.href='${downloadLink2}'">Qiwi</button>
     `;
 
