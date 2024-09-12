@@ -20,7 +20,7 @@ const juegos = [
     },
     {
         id: "Assassin's Creed III",
-        imgSrc: "assets/img/horadeaventurainvestigations.jpg",
+        imgSrc: "assets/img/asscred3.jpg",
         altText: "Assassin's Creed III",
         title: "Assassin's Creed III (USA) (DLC) (v80).wua",
         downloadLink: "jjj",
@@ -29,7 +29,7 @@ const juegos = [
     },
     {
         id: "Assassin's Creed IV Black Flag",
-        imgSrc: "assets/img/horadeaventurainvestigations.jpg",
+        imgSrc: "assets/img/asscreedbf.jpg",
         altText: "Assassin's Creed IV Black Flag",
         title: "Assassin's Creed IV Black Flag (USA) (v32).wua",
         downloadLink: "jjj",
@@ -66,7 +66,7 @@ const juegos = [
     },
     {
         id: "Call of Duty Ghosts",
-        imgSrc: "assets/img/horadeaventurainvestigations.jpg",
+        imgSrc: "assets/img/codghost.jpg",
         altText: "Call of Duty Ghosts",
         title: "Call of Duty Ghosts (USA) (DLC) (v112).wua",
         downloadLink: "jjj",
@@ -174,7 +174,7 @@ const juegos = [
     },
     {
         id: "Mario y Sonic at the Rio 2016 Olympic Games",
-        imgSrc: "assets/img/marioysonicsochi2014.jpg",
+        imgSrc: "assets/img/marioysonic2016.jpg",
         altText: "Mario y Sonic at the Rio 2016 Olympic Games",
         title: "Mario & Sonic at the Rio 2016 Olympic Games (USA) (v16).wua",
         downloadLink: "https://www.ejemplo.com",
@@ -219,7 +219,7 @@ const juegos = [
     },
     {
         id: "Mario vs. Donkey Kong Tipping Stars",
-        imgSrc: "assets/img/mariotennisultrasmash.jpg",
+        imgSrc: "assets/img/mariovsdonkey.jpg",
         altText: "Mario vs. Donkey Kong Tipping Stars",
         title: "Mario vs. Donkey Kong Tipping Stars (USA).wua",
         downloadLink: "jjj",
@@ -228,7 +228,7 @@ const juegos = [
     },
     {
         id: "MONSTER HUNTER 3 ULTIMATE",
-        imgSrc: "assets/img/mariotennisultrasmash.jpg",
+        imgSrc: "assets/img/monsterhunter3.jpg",
         altText: "MONSTER HUNTER 3 ULTIMATE",
         title: "MONSTER HUNTER 3 ULTIMATE (USA) (v32).wua",
         downloadLink: "jjj",
@@ -291,7 +291,7 @@ const juegos = [
     },
     {
         id: "Phineas and Ferb Quest for Cool Stuff",
-        imgSrc: "assets/img/pikmin3.jpg",
+        imgSrc: "assets/img/Phiniasyferb.jpg",
         altText: "Phineas and Ferb Quest for Cool Stuff",
         title: "Phineas and Ferb - Quest for Cool Stuff (USA).wua",
         downloadLink: "jjj",
@@ -354,7 +354,7 @@ const juegos = [
     },
     {
         id: "Star Fox Zero",
-        imgSrc: "assets/img/pikmin3.jpg",
+        imgSrc: "assets/img/starfoxzero.jpg",
         altText: "Star Fox Zero",
         title: "Star Fox Zero (USA) (v16).wua",
         downloadLink: "jjj",
@@ -381,7 +381,7 @@ const juegos = [
     },
     {
         id: "Super Smash Bros. for Wii U",
-        imgSrc: "assets/img/supermariomaker.jpg",
+        imgSrc: "assets/img/superbros.jpg",
         altText: "Super Smash Bros. for Wii U",
         title: "Super Smash Bros. for Wii U (USA) (DLC) (v304).wua",
         downloadLink: "jjjj",
@@ -399,7 +399,7 @@ const juegos = [
     },
     {
         id: "The Amazing Spider-Man 2",
-        imgSrc: "assets/img/pikmin3.jpg",
+        imgSrc: "assets/img/Spiderman2.jpg",
         altText: "The Amazing Spider-Man 2",
         title: "The Amazing Spider-Man 2 (USA).wua",
         downloadLink: "jjj",
@@ -444,7 +444,7 @@ const juegos = [
     },
     {
         id: "The Legend of Zelda Twilight Princess HD",
-        imgSrc: "assets/img/mariotennisultrasmash.jpg",
+        imgSrc: "assets/img/Thezeldatwi.jpg",
         altText: "The Legend of Zelda Twilight Princess HD",
         title: "The Legend of Zelda - Twilight Princess HD (USA) (v81).wua",
         downloadLink: "jjj",
@@ -462,7 +462,7 @@ const juegos = [
     },
     {
         id: "Wipeout 3",
-        imgSrc: "assets/img/pikmin3.jpg",
+        imgSrc: "assets/img/wipeout3.jpg",
         altText: "Wipeout 3",
         title: "Wipeout 3 (USA).wua",
         downloadLink: "jjj",
@@ -480,7 +480,7 @@ const juegos = [
     },
     {
         id: "ZombiU",
-        imgSrc: "assets/img/mariotennisultrasmash.jpg",
+        imgSrc: "assets/img/zombiu.jpg",
         altText: "ZombiU",
         title: "ZombiU (USA) (v32).wua",
         downloadLink: "jjj",
