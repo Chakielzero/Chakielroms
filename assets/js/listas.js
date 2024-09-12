@@ -6,7 +6,6 @@ const juegos = [
         altText: "Adventure Time Explore the Dungeon Because I Don't Know!",
         title: "Adventure Time Explore the Dungeon Because I Don't Know! (EU) (v16).wua",
         downloadLink: "https://ouo.io/p4yHLO",
-        downloadLink2: "https://ouo.io/qX2N5V" // Segundo enlace de descarga
 
     },
     {
