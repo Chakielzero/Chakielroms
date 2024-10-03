@@ -346,6 +346,14 @@ const juegos = [
 
     },
     {
+        id: "Splatoon",
+        imgSrc: "assets/splatoon.jpg",
+        altText: "Splatoon",
+        title: "Splatoon (USA) (v288).wua",
+        downloadLink2: "https://cuty.io/05pmOE" // Segundo enlace de descarga
+
+    },
+    {
         id: "SpongeBob SquarePants Plankton's Robotic Revenge",
         imgSrc: "assets/img/SBRR.jpg",
         altText: "SpongeBob SquarePants: Plankton's Robotic Revenge",
