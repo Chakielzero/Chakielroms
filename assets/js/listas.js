@@ -1,6 +1,13 @@
 // Lista de juegos
 const juegos = [
     {
+        id: "007 Legends",
+        imgSrc: "assets/img/007legends.jpg",
+        altText: "007 Legends",
+        title: "007™ Legends (EU).wua",
+        downloadLink2: "https://cuty.io/T4bzUh" // Segundo enlace de descarga
+    },       
+    {
         id: "Adventure Time Explore the Dungeon Because I Don't Know!",
         imgSrc: "assets/img/horadeaventura.jpg",
         altText: "Adventure Time Explore the Dungeon Because I Don't Know!",
