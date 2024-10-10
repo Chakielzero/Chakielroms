@@ -28,7 +28,7 @@ const juegos = [
         imgSrc: "assets/img/asscred3.jpg",
         altText: "Assassin's Creed III",
         title: "Assassin's Creed III (USA) (DLC) (v80).wua",
-        downloadLink2: "https://cuty.io/xZdAuIaors" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/RnFCoBN7s1e" // Segundo enlace de descarga
 
     },
     {
@@ -36,7 +36,7 @@ const juegos = [
         imgSrc: "assets/img/asscreedbf.jpg",
         altText: "Assassin's Creed IV Black Flag",
         title: "Assassin's Creed IV Black Flag (USA) (v32).wua",
-        downloadLink2: "https://cuty.io/lMlcgqUfq" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/jkPbIc3q" // Segundo enlace de descarga
 
     },
     {
@@ -44,7 +44,7 @@ const juegos = [
         imgSrc: "assets/img/batmancity.jpg",
         altText: "Batman Arkham City Armored Edition",
         title: "Batman Arkham City - Armored Edition (USA).wua",
-        downloadLink2: "https://cuty.io/5yGt7rDz2c" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/47mIhvds" // Segundo enlace de descarga
 
     },
     {
@@ -52,7 +52,7 @@ const juegos = [
         imgSrc: "assets/img/batmanorigins.jpg",
         altText: "Batman Arkham Origins",
         title: "Batman - Arkham Origins (USA) (DLC) (v16).wua",
-        downloadLink2: "https://cuty.io/LyrkQ0yGGq" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/PM1CpBiAk" // Segundo enlace de descarga
 
 
     },
@@ -61,7 +61,7 @@ const juegos = [
         imgSrc: "assets/img/bayonetta2.jpg",
         altText: "BAYONETTA 2",
         title: "BAYONETTA 2 (EU).wua",
-        downloadLink2: "https://cuty.io/6nYVDJeXXom" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/0Z9mKy7ov1zk" // Segundo enlace de descarga
 
     },
     {
@@ -85,7 +85,7 @@ const juegos = [
         imgSrc: "assets/img/codghost.jpg",
         altText: "Call of Duty Ghosts",
         title: "Call of Duty Ghosts (USA) (DLC) (v112).wua",
-        downloadLink2: "https://cuty.io/NhSGFUTy7l" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/jHnXCyB" // Segundo enlace de descarga
 
     },
     {
@@ -109,7 +109,7 @@ const juegos = [
         imgSrc: "assets/img/darksiders.jpg",
         altText: "Darksiders",
         title: "Darksiders (US).wua",
-        downloadLink2: "https://cuty.io/mmx84IwSw" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/dOzQNCDccii2" // Segundo enlace de descarga
 
     },
     {
@@ -117,7 +117,7 @@ const juegos = [
         imgSrc: "assets/img/darksiders2.jpg",
         altText: "Darksiders II",
         title: "Darksiders II (US).wua",
-        downloadLink2: "https://cuty.io/fzGqAIKgugr" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/Y4jLZM" // Segundo enlace de descarga
 
     },
     {
@@ -213,7 +213,7 @@ const juegos = [
         imgSrc: "assets/img/marioysonicsochi2014.jpg",
         altText: "Mario y sonic sochi 2014",
         title: "MARIO & SONIC SOCHI 2014 (EU) (v32).wua",
-        downloadLink2: "https://cuty.io/r6ASt" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/t4ojp" // Segundo enlace de descarga
 
     },
     {
@@ -285,7 +285,7 @@ const juegos = [
         imgSrc: "assets/img/onepieceworldred.jpg",
         altText: "ONE PIECE Unlimited World Red",
         title: "ONE PIECE Unlimited World Red (US).wua",
-        downloadLink2: "https://cuty.io/aWGa2Ot" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/tP5iPNfI9nt" // Segundo enlace de descarga
 
     },
     {
@@ -301,7 +301,7 @@ const juegos = [
         imgSrc: "assets/img/pinguinosmadagascar.jpg",
         altText: "Penguins of Madagascar",
         title: "Penguins of Madagascar (USA).wua",
-        downloadLink2: "https://cuty.io/uyArXcKS" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/zwvhL5a" // Segundo enlace de descarga
 
     },
     {
@@ -317,7 +317,7 @@ const juegos = [
         imgSrc: "assets/img/pikmin3.jpg",
         altText: "PIKMIN 3",
         title: "PIKMIN 3 (USA) (DLC) (v96).wua",
-        downloadLink2: "https://cuty.io/Cuas2" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/OCWO5nTjTAyg" // Segundo enlace de descarga
 
     },
     {
@@ -405,7 +405,7 @@ const juegos = [
         imgSrc: "assets/img/tekkentag2.jpg",
         altText: "TEKKEN TAG 2 Wii U EDITION",
         title: "TEKKEN TAG 2 Wii U EDITION (US) (v32).wua",
-        downloadLink2: "https://cuty.io/L7dZrD6" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/km7Ae" // Segundo enlace de descarga
 
     },
     {
@@ -461,7 +461,7 @@ const juegos = [
         imgSrc: "assets/img/turbo.jpg",
         altText: "Turbo Super Stunt Squad",
         title: "Turbo Super Stunt Squad (USA).wua",
-        downloadLink2: "https://cuty.io/9f12apU" // Segundo enlace de descarga
+        downloadLink2: "https://cuty.io/BwnMAPGM4tUF" // Segundo enlace de descarga
 
     },
     {
